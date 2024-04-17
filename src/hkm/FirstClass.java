@@ -5,6 +5,7 @@ public class FirstClass {
         System.out.println("Hello World!");
         //Hello World
         //Hello Dasha
+        //Hello
 
     }
 }
